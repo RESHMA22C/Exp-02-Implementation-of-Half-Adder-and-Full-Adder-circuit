@@ -38,17 +38,40 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: RESHMA C
+RegisterNumber: 23012886  
 */
-Logic symbol & Truthtable
-RTL realization
+Code:
+![image](https://github.com/RESHMA22C/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474426/447b8e4b-04bb-4f4a-b552-032daddc7f3f)
+
+![image](https://github.com/RESHMA22C/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474426/5a864886-39f1-478c-9fa3-55366324ff5f)
+
 
 ### Output:
-### RTL
-### TIMING DIAGRAM
+![image](https://github.com/RESHMA22C/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474426/ea06abfa-d148-4700-bf91-2284c9ff7bbb)
+
+![image](https://github.com/RESHMA22C/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474426/2b718ddd-cf2f-4ef7-940e-d980a531511f)
 
 
-### TRUTH TABLE 
+
+### RTL:
+![image](https://github.com/RESHMA22C/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474426/c82cb4a5-d552-4691-b146-4dc335b2b96e)
+![image](https://github.com/RESHMA22C/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474426/179fa019-f66d-46db-9eb5-48cd3048d316)
+
+
+### TIMING DIAGRAM:
+
+![image](https://github.com/RESHMA22C/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474426/e1ee915a-32e4-47be-86e3-7088040df6fd)
+
+
+![image](https://github.com/RESHMA22C/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474426/9ccd853a-d5fa-44a8-b193-cdd994e08ee3)
+
+
+
+### TRUTH TABLE ;
+![image](https://github.com/RESHMA22C/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474426/520285bf-ef87-4b23-ad95-dbd812d3c55c)
+
+![image](https://github.com/RESHMA22C/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474426/4e6d8139-230d-47d0-8ad4-742c18336471)
 
 ### Result:
+Thus the half adder and full adder circuits are designed and the truth table is verified using quartus software
